@@ -6,7 +6,7 @@ parameters:
   backendAzureRmResourceGroupName: 'resourcegroup-tfstate'
   backendAzureRmStorageAccountName: 'terraformtfstate'
   backendAzureRmContainerName: 'tfstate'
-  location: 'westeurope'
+  location: 'westus3'
   dependsOn: []
   
 stages:
